@@ -27,12 +27,24 @@ This Dataset is provided in a CSV format. The Dataset makes up with 35 relavent 
 The Dashboard is created in Power BI Desktop which consist of several reports such as Demographics , Turnover Analysis I , Turnover Analysis II , Employee Wellness which will help the company determine what action they will need to take to retain more employees.
 The analysis of the employee data involves creation of calculated measures and columns using Power Query and DAX in Power BI. It also involves plotting correlation map (Heatmap) using Python visual for all numeric variables of the dataset to identify the strength and direction of the relationship between variables. In this dashboard, grouping plays a crucial role in organizing and presenting the data effectively. The design of the dashboard is tailored to utilize the power of grouping for enhanced data visualization and analysis.
 
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204434.png"
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204454.png"
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204512.png"
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204527.png"
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204549.png"
-"C:\Users\HP\Pictures\Screenshots\Screenshot 2023-11-18 204617.png"
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/5f0c16e0-1e7d-4826-aeb7-0721512c5ba5)
+
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/2dad1e66-57ea-4451-a428-8aec1325ee42)
+
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/6b1a3aaa-067a-4fbb-95f0-5a1923abb4f1)
+
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/8a71d64f-01ef-47a1-85f8-0a92784cfb40)
+
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/6410b144-aa1b-4b2b-9f35-eeee952846aa)
+
+![image](https://github.com/yash-9300/Hr-Analytics/assets/142987184/e57730b8-5a69-410e-9ba9-75f99ee6d43c)
+
+
+
+
+
+
+
 
 
 
